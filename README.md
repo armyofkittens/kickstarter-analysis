@@ -7,7 +7,9 @@ After the kickstarter for Fever went live, it fell short of it's initial fundrai
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+<p align="center">
+  <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="700"/>
+</p>
 
 ### Analysis of Outcomes Based on Goals
 
