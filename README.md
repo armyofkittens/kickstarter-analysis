@@ -14,7 +14,7 @@ A new "Year" column was created in order to extract the year from the kickstarte
 
 ### Analysis of Outcomes Based on Goals
 <p align="center">
-  <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" width="700"/>
+  <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Outcomes_vs_Goals_Final.png" width="700"/>
 </p>
 
 
