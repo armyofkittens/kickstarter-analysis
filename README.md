@@ -2,7 +2,7 @@
 ## Overview of Project
 
 ### Purpose
-After the kickstarter for Fever went live, it fell short of it's initial fundraising goal. The purpose of this analysis is to see if there was a more optimal Kickstarter launch date for a theater based production, or if my launch goal disuaded people from pledging to the campaign.
+After the kickstarter for Fever went live, it fell short of it's initial fundraising goal. The purpose of this analysis is to see if there was a more optimal Kickstarter launch date for a theater based production, or if the launch goal amount disuaded people from pledging to the campaign.
 
 ## Analysis and Challenges
 
