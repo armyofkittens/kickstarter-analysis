@@ -29,7 +29,6 @@ Some challenges faced with "Theater outcomes by launch date" included not being 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 <ul><li> - The best time to launch a Theater kickstarter is in the Spring/April</li>
-    <li> - The worst time to launch a Theater kickstarter is at the very end of the year</li>
 
 - What can you conclude about the Outcomes based on Goals?
 *The best Goal to Outcome is in the very low end as well as mid-to-high end
