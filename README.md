@@ -11,7 +11,7 @@ After the kickstarter for Fever went live, it fell short of it's initial fundrai
   <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="700"/>
 </p>
   In the first quarter of the year the overall volume of kickstarters were lower, with January trending upwards but declining by March. In the second quarter we see the number of successful kickstarters skyrocket, but then continue to trend down through the third quarter. September seems to see a slight uptick in successful kickstarters however there is also a disproportionately large increase in failed kickstarters. The year ends with the lowest number of successful kickstarters. 
-
+#
   A new "Year" column was created in order to extract the year from the kickstarter date creation, and then the entire database was imported into a PivotTable. The Year and Category was added as a filter to allow user manipulation, and then for the pupose of this analysis the Theater category was selected. The column was then set to outcomes and the rows were set to Kickstarter creation dates. Each cell contains the number of outcomes based on selected criteria and then sorted to show the number of successful kickstarter campaigns first. Data was moved into a line chart by using PivotChart. 
 
 ### Analysis of Outcomes Based on Goals
