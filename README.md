@@ -27,15 +27,10 @@ Some challenges faced with "Theater outcomes by launch date" included not being 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-*The Best time to launch a Theater kickstarter is in Spring/April
-*The worst time to launch a Theater kickstarter is at the very end of the year
+- What are two conclusions you can draw about the Outcomes based on Launch Date? The Best time to launch a Theater kickstarter is in Spring/April, and the worst time to launch a Theater kickstarter is at the very end of the year.
 
-- What can you conclude about the Outcomes based on Goals?
-*The best Goal to Outcome is in the very low end as well as mid-to-high end
+- What can you conclude about the Outcomes based on Goals? The best goals to launch with are either extremely low, or in the mid-to-high range.
 
-- What are some limitations of this dataset?
-*There isn't anything granular enough to tell us which genre of play is more successful than another, for example romance vs. comedy
+- What are some limitations of this dataset? There isn't anything granular enough to tell us which genre of play is more successful than another, for example romance vs. comedy.
 
-- What are some other possible tables and/or graphs that we could create?
-*The data in outcomes vs goals is not weighted by number of kickstarters, so would like to dig into theater outcomes by goal rather than percent successful.
+- What are some other possible tables and/or graphs that we could create? The data in outcomes vs goals is not weighted by number of kickstarters, so would like to dig into theater outcomes by goal rather than percent successful.
