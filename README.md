@@ -11,7 +11,11 @@ After the kickstarter for Fever went live, it fell short of it's initial fundrai
   <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="700"/>
 </p>
 
+
 ### Analysis of Outcomes Based on Goals
+<p align="center">
+  <img src="https://github.com/armyofkittens/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" width="700"/>
+</p>
 
 ### Challenges and Difficulties Encountered
 
